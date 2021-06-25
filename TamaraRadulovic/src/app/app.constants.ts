@@ -1,5 +1,5 @@
-export const OBRAZOVANJE_URL = 'http://localhost:8084/obrazovanje';
-export const PREDUZECE_URL = 'http://localhost:8084/preduzece';
-export const SEKTOR_URL = 'http://localhost:8084/sektor';
-export const RADNIK_URL = 'http://localhost:8084/radnik';
-export const RADNIK_PO_SEKTORU_URL = 'http://localhost:8084/radnikZaSektorId';
+export const OBRAZOVANJE_URL = 'https://tamararadulovicbackendrva.herokuapp.com/obrazovanje';
+export const PREDUZECE_URL = 'https://tamararadulovicbackendrva.herokuapp.com/preduzece';
+export const SEKTOR_URL = 'https://tamararadulovicbackendrva.herokuapp.com/sektor';
+export const RADNIK_URL = 'https://tamararadulovicbackendrva.herokuapp.com/radnik';
+export const RADNIK_PO_SEKTORU_URL = 'https://tamararadulovicbackendrva.herokuapp.com/radnikZaSektorId';
